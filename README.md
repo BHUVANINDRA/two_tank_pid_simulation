@@ -1,16 +1,4 @@
-Perfect—great job uploading your code and `requirements.txt`!
 
-Here’s a **clean, detailed `README.md`** you can **copy-paste into your repository**.
-
-This file:
-✅ Explains the project purpose
-✅ Lists all features
-✅ Details all parameters
-✅ Describes how to set up and run
-✅ Mentions that parameters come from a research paper
-✅ Is formatted to look good on GitHub
-
----
 
 ## 🟢 **README.md**
 
