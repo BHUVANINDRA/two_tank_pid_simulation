@@ -63,16 +63,6 @@ These parameters are based on reference research literature on liquid tank proce
 ### Prerequisites
 Python 3.7 or newer.
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/two_tank_pid_simulation.git
-cd two_tank_pid_simulation
-````
-
-Or simply download the repository ZIP and extract it.
-
----
-
 ### 2️⃣ Install dependencies
 
 Install all required Python libraries:
