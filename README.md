@@ -1,6 +1,9 @@
 
+```
+README.md
+```
 
-## 🟢 **README.md**
+---
 
 ````markdown
 # 🧪 Two-Tank Interacting System PID Simulation
@@ -62,6 +65,16 @@ These parameters are based on reference research literature on liquid tank proce
 
 ### Prerequisites
 Python 3.7 or newer.
+
+---
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/BHUVANINDRA/two_tank_pid_simulation.git
+cd two_tank_pid_simulation
+````
+
+---
 
 ### 2️⃣ Install dependencies
 
@@ -134,3 +147,16 @@ Model and parameter references are adapted from:
 This project is for educational and research purposes. You are free to adapt and extend it.
 
 ---
+
+
+## ✉️ Contact
+
+Questions? Suggestions? Feel free to open an issue or pull request.
+
+Enjoy exploring PID control!
+
+```
+
+---
+
+
